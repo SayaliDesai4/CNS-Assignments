@@ -1,0 +1,20 @@
+Two prime Numbers are: 17 31
+Product of two prime number n is 527
+Taken e is 7
+phi is 480
+Final e value is 7
+0 7 480 7 1 0 1 0 1 0
+68 480 7 4 0 1 -68 1 0 1
+1 7 4 3 1 -68 69 0 1 -1
+1 4 3 1 -68 69 -137 1 -1 2
+3 3 1 0 69 -137 480 -1 2 -7
+Inverse is: 343
+d is 343
+
+So now our public key is <7,527>
+
+So now our private key is <343,527>
+
+Message data is 2
+Encripted Message is 128
+Original Message is 2
